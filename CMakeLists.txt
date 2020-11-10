@@ -6,7 +6,7 @@ option(BUILD_SHARED_LIBS "Build shared libraries" ON)
 
 # "my-example" is just an example value.
 project(AWS-CPP-SDK_starter)
-
+include_directories(include)
 # Locate the AWS SDK for C++ package.
 # "s3" and "cloudtrail" are just example values.
 find_package(AWSSDK REQUIRED COMPONENTS s3 cloudtrail)
