@@ -1,0 +1,3 @@
+/home/bonce/source/AWS-CPP-SDK_starter/build/CMakeFiles/rebuild_cache.dir
+/home/bonce/source/AWS-CPP-SDK_starter/build/CMakeFiles/edit_cache.dir
+/home/bonce/source/AWS-CPP-SDK_starter/build/CMakeFiles/AWS-CPP-SDK_starter.dir

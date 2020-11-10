@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/AWS-CPP-SDK_starter.dir/src/main.cpp.o  -o AWS-CPP-SDK_starter  -Wl,-rpath,/usr/local/lib /usr/local/lib/libaws-cpp-sdk-s3.so /usr/local/lib/libaws-cpp-sdk-cloudtrail.so /usr/local/lib/libaws-cpp-sdk-core.so /usr/local/lib/libaws-c-event-stream.so.1.0.0 /usr/local/lib/libaws-c-common.so.1.0.0 -lm -pthread -lrt -ldl /usr/local/lib/libaws-checksums.so 
