@@ -1,4 +1,4 @@
-# .vscode/*
-# .gitignore
-# build/*
-# bin/*
+.vscode/*
+.gitignore
+build/*
+bin/*
